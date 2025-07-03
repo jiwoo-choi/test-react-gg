@@ -1,0 +1,1 @@
+import"./hoisted.e87dbe30.js";const l=window.matchMedia("(max-width: 550px)").matches;if(!l){const o=document.querySelector(".back-to-top"),e=1e3;window.addEventListener("scroll",()=>{(window.pageYOffset||document.documentElement.scrollTop)>e?o.style.display="block":o.style.display="none"})}
